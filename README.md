@@ -1,117 +1,106 @@
 <h1 align="center">Hi 👋, I'm Sruthi Raj Reddy</h1>
 
 <h3 align="center">
-Frontend Developer | React.js Developer | JavaScript Enthusiast
+Frontend Developer | React.js | JavaScript | Tailwind CSS
 </h3>
 
 <p align="center">
-Building responsive, scalable and user-friendly web applications with modern frontend technologies.
+Frontend Developer with <strong>1 year 11 months of professional experience</strong> in developing, and maintaining responsive web applications using React.js, JavaScript, HTML5, CSS3, and Tailwind CSS.
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=sruthirajreddy&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 💼 Open to **Frontend Developer**, **React Developer**, and **Software Developer** opportunities
-- 🌱 Currently learning **Redux Toolkit**, **TypeScript**, and **AWS**
-- 💻 Passionate about building clean, responsive, and reusable user interfaces
-- 🚀 Continuously improving JavaScript problem-solving and React development skills
-- 🤝 Interested in collaborating on Open Source and Frontend Projects
+- 💼 Frontend Developer with **1 year 11 months of professional experience**
+- ⚛️ Experienced in developing responsive and reusable UI components using **React.js**
+- 🎨 Skilled in building modern user interfaces with **HTML5, CSS3 and Tailwind CSS**
+- 🔗 Experience integrating REST APIs and collaborating with backend teams
+- 🛠 Familiar with Git, GitHub, VS Code, and Agile development practices
+- 🌱 Currently enhancing my skills in **TypeScript**, and modern React ecosystem
+- 💼 Open to Frontend Developer / React Developer opportunities
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
-</p>
-
-### Tools & Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
-</p>
-
-### Currently Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=redux,typescript,aws" />
-</p>
-
-## 🎯 Current Goals
-
-- ✅ Master Advanced JavaScript
-- ✅ Build 10+ Production-Level React Projects
-- ✅ Learn TypeScript
-- ✅ Land a Frontend Developer Role
+| Category | Technologies |
+|----------|--------------|
+| Languages | HTML5, CSS3, JavaScript (ES6+) |
+| Frontend | React.js, Tailwind CSS |
+| State Management | Context API, Redux Toolkit |
+| API | REST APIs |
+| Tools | Git, GitHub, VS Code, Postman, Insomnia |
+| Currently Learning | TypeScript |
 
 ---
 
-## 📊 GitHub Statistics
+## 💼 Professional Experience
+
+- Developed responsive web applications using React.js
+- Built reusable UI components to improve development efficiency
+- Integrated REST APIs and handled asynchronous data fetching
+- Worked closely with UI/UX designers to implement pixel-perfect interfaces
+- Fixed bugs and optimized application performance
+- Participated in Agile development and sprint planning
+
+---
+
+## 🚀 Featured Projects
+
+### 🛒 E-Commerce Application
+- React.js
+- Tailwind CSS
+- REST API
+- Responsive Design
+
+### 📊 Admin Dashboard
+- React.js
+- Charts
+- Responsive Layout
+- API Integration
+
+### 🌦 Weather Application
+- React.js
+- OpenWeather API
+- Responsive UI
+
+### 💰 Expense Tracker
+- React.js
+- Local Storage
+- CRUD Operations
+
+---
+
+## 📌 Core Skills
+
+- React.js
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Tailwind CSS
+- REST API Integration
+- Responsive Web Design
+- Git & GitHub
+
+---
+
+## 🤝 Let's Connect
+
+📧 Email: sirigireddysruthi0@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/sruthi-raj-reddy/
+
+🌐 Portfolio: 
+
+📍 Location: India
+
+---
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-
+⭐ Building clean, scalable, and user-friendly web applications.
 </p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-
-</p>
-
----
-
-## 🌐 Connect with Me
-
-<p align="left">
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="mailto:sirigireddysruthi0@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<a href="https://YOUR_PORTFOLIO.com">
-<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-## 💡 What Drives Me
-
-> I enjoy transforming ideas into beautiful, responsive, and accessible web applications while continuously learning modern frontend technologies.
-
----
-
-## 💻 Coding Profiles
-
-- 🔹 LeetCode: https://leetcode.com/YOUR_USERNAME
-- 🔹 HackerRank: https://www.hackerrank.com/YOUR_USERNAME
-- 🔹 GeeksforGeeks: https://auth.geeksforgeeks.org/user/YOUR_USERNAME
-- 🔹 CodeChef: https://www.codechef.com/users/YOUR_USERNAME
-
----
-
-<h3 align="center">
-
-⭐ Clean Code • Responsive Design • Continuous Learning • Building Real-World Projects ⭐
-
-</h3>
