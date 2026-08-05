@@ -63,37 +63,32 @@ I enjoy transforming UI designs into responsive and interactive applications whi
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🛒 Full Stack E-Commerce Application
+### 🚀 FlowDesk – Project Management Dashboard
 
-A production-style e-commerce platform with secure authentication and complete shopping functionality.
+FlowDesk is a modern, responsive Project Management Dashboard inspired by enterprise SaaS platforms like Jira, ClickUp, and Asana. Built with React.js and a scalable component-based architecture, it helps teams organize projects, manage tasks, track progress, and visualize productivity through an intuitive and interactive interface.
 
 **Tech Stack**
 
 - React.js
-- Node.js
-- Express.js
-- MongoDB
+- JavaScript (ES6+)
+- Vite
 - Tailwind CSS
-- JWT
+- Axios
 
 ### Features
 
-- Secure Login & Registration
-- Product Listing
-- Product Details
-- Wishlist
-- Shopping Cart
-- Search & Category Filter
-- Order Management
-- Responsive Design
+- Interactive dashboard with project overview
+- Project and task management
+- Drag-and-drop Kanban board
+- Analytics with interactive charts
+- Search, filter, and sort functionality
 
-🌐 **Live Demo:** https://your-demo-link.vercel.app
+🌐 **Live Demo:** https://flowdesk-72yhtmudl-sirigireddysruthi0-8355s-projects.vercel.app/
 
-### 📸 Preview
-
-<img src="./assets/ecommerce-home.png" width="850"/>
+### Preview
+<img width="1917" height="1030" alt="Screenshot 2026-08-05 222955" src="https://github.com/user-attachments/assets/fef9b44f-881c-4dfd-9a4b-1f9d61a9576e" />
 
 ---
 
