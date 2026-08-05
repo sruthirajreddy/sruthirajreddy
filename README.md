@@ -139,12 +139,11 @@ Responsive movie discovery application powered by TMDB (The Movie Database) API.
 
 - Movie Search
 - Trending Movies
-- Genre Filter
 - Movie Details
 - Lazy Loading
 - Responsive UI
 
-🌐 **Live Demo:** https://your-demo-link.vercel.app
+🌐 **Live Demo:** https://movie-explorer-5n5zeknoz-sirigireddysruthi0-8355s-projects.vercel.app/
 
 ### Preview
 <img width="1227" height="1015" alt="Screenshot 2026-08-05 154950" src="https://github.com/user-attachments/assets/327ddde3-3a70-46a0-bcab-b91a6ed78e03" />
