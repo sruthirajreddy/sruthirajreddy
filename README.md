@@ -36,43 +36,16 @@ I enjoy transforming UI designs into responsive and interactive applications whi
 
 ## 🛠 Tech Stack
 
-### Frontend
-
-- React.js
-- JavaScript (ES6+)
-- HTML5
-- CSS3
-- Tailwind CSS
-
-### Backend (Basics)
-
-- Node.js
-- Express.js
-
-### Database
-
-- MongoDB
-
-### Cloud
-
-- AWS S3
-- AWS Lambda
-- AWS Amplify
-- AWS IoT Core
-- AWS CloudWatch
-- AWS SQS
-
-### Tools
-
-- Git
-- GitHub
-- VS Code
-- Postman
-- Chrome DevTools
-- Vercel
-- Netlify
-- Render
-
+| Category | Skills |
+| :--- | :--- |
+| **Frontend** | React.js • JavaScript (ES6+) • HTML5 • CSS3 • Tailwind CSS |
+| **Backend (Basics)** | Node.js • Express.js |
+| **Database** | MongoDB |
+| **API Integration** | REST APIs • Axios |
+| **Cloud Services** | AWS S3 • AWS Lambda • AWS Amplify • AWS IoT Core • AWS CloudWatch • AWS SQS |
+| **Version Control** | Git • GitHub |
+| **Deployment** | Vercel • Netlify • Render |
+| **Development Tools** | Visual Studio Code • Postman • Chrome DevTools |
 ---
 
 ## 💼 Professional Experience
