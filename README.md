@@ -130,7 +130,7 @@ https://www.linkedin.com/in/sruthi-raj-reddy/
 
 🌐 **Portfolio**
 
-Coming Soon
+https://sruthirajreddy-portfolio.vercel.app/
 
 📍 **Location**
 
