@@ -146,9 +146,8 @@ Responsive movie discovery application powered by TMDB (The Movie Database) API.
 
 🌐 **Live Demo:** https://your-demo-link.vercel.app
 
-### 📸 Preview
-
-<img src="./assets/movie-home.png" width="850"/>
+### Preview
+<img width="1227" height="1015" alt="Screenshot 2026-08-05 154950" src="https://github.com/user-attachments/assets/327ddde3-3a70-46a0-bcab-b91a6ed78e03" />
 
 ---
 
