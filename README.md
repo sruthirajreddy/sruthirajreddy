@@ -1,106 +1,205 @@
 <h1 align="center">Hi 👋, I'm Sruthi Raj Reddy</h1>
 
 <h3 align="center">
-Frontend Developer | React.js | JavaScript | Tailwind CSS
+Frontend Developer | React.js Developer | JavaScript | Tailwind CSS
 </h3>
 
 <p align="center">
-Frontend Developer with <strong>1 year 11 months of professional experience</strong> in developing, and maintaining responsive web applications using React.js, JavaScript, HTML5, CSS3, and Tailwind CSS.
+Frontend Developer with <strong>2 years of professional experience</strong> building responsive, scalable, and user-friendly web applications using React.js, JavaScript (ES6+), HTML5, CSS3, and Tailwind CSS.
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=sruthirajreddy&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+💼 Open to Frontend Developer | React Developer Opportunities
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 💼 Frontend Developer with **1 year 11 months of professional experience**
-- ⚛️ Experienced in developing responsive and reusable UI components using **React.js**
-- 🎨 Skilled in building modern user interfaces with **HTML5, CSS3 and Tailwind CSS**
-- 🔗 Experience integrating REST APIs and collaborating with backend teams
-- 🛠 Familiar with Git, GitHub, VS Code, and Agile development practices
-- 🌱 Currently enhancing my skills in **TypeScript**, and modern React ecosystem
-- 💼 Open to Frontend Developer / React Developer opportunities
+I'm a Frontend Developer with **2 years of professional experience** developing modern web applications.
+
+I enjoy transforming UI designs into responsive and interactive applications while focusing on clean code, reusable components, and excellent user experience.
+
+### Highlights
+
+- 💼 2 Years of Professional Experience
+- ⚛️ React.js Frontend Developer
+- 💻 Strong JavaScript (ES6+) knowledge
+- 🎨 Responsive UI Development
+- 🔗 REST API Integration
+- 🧩 Reusable Component Development
+- 🚀 Performance Optimization
+- 🤝 Agile Development Experience
+- 🌱 Currently learning TypeScript and advanced React concepts
 
 ---
 
 ## 🛠 Tech Stack
 
-| Category | Technologies |
-|----------|--------------|
-| Languages | HTML5, CSS3, JavaScript (ES6+) |
-| Frontend | React.js, Tailwind CSS |
-| State Management | Context API, Redux Toolkit |
-| API | REST APIs |
-| Tools | Git, GitHub, VS Code, Postman, Insomnia |
-| Currently Learning | TypeScript |
-
----
-
-## 💼 Professional Experience
-
-- Developed responsive web applications using React.js
-- Built reusable UI components to improve development efficiency
-- Integrated REST APIs and handled asynchronous data fetching
-- Worked closely with UI/UX designers to implement pixel-perfect interfaces
-- Fixed bugs and optimized application performance
-- Participated in Agile development and sprint planning
-
----
-
-## 🚀 Featured Projects
-
-### 🛒 E-Commerce Application
-- React.js
-- Tailwind CSS
-- REST API
-- Responsive Design
-
-### 📊 Admin Dashboard
-- React.js
-- Charts
-- Responsive Layout
-- API Integration
-
-### 🌦 Weather Application
-- React.js
-- OpenWeather API
-- Responsive UI
-
-### 💰 Expense Tracker
-- React.js
-- Local Storage
-- CRUD Operations
-
----
-
-## 📌 Core Skills
+### Frontend
 
 - React.js
 - JavaScript (ES6+)
 - HTML5
 - CSS3
 - Tailwind CSS
+
+### Backend (Basics)
+
+- Node.js
+- Express.js
+
+### Database
+
+- MongoDB
+
+### Cloud
+
+- AWS S3
+- AWS Lambda
+- AWS Amplify
+- AWS IoT Core
+- AWS CloudWatch
+- AWS SQS
+
+### Tools
+
+- Git
+- GitHub
+- VS Code
+- Postman
+- Chrome DevTools
+- Vercel
+- Netlify
+- Render
+
+---
+
+## 💼 Professional Experience
+
+### Frontend Developer
+**GND Solutions India Pvt. Ltd.**
+
+- Developed responsive web applications using React.js, JavaScript, HTML5, CSS3, and Tailwind CSS.
+- Built reusable React components to improve scalability and maintainability.
+- Integrated REST APIs to fetch and manage dynamic application data.
+- Collaborated with backend developers for seamless API integration.
+- Implemented responsive layouts across desktop, tablet, and mobile devices.
+- Optimized frontend performance and fixed UI issues.
+- Participated in feature development, testing, debugging, deployment, and Agile sprint activities.
+
+---
+
+## 🚀 Featured Projects
+
+### 🛒 Full Stack E-Commerce Application
+
+A production-style e-commerce platform with secure authentication and complete shopping functionality.
+
+**Tech Stack**
+
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- Tailwind CSS
+- JWT
+
+### Features
+
+- Secure Login & Registration
+- Product Listing
+- Product Details
+- Wishlist
+- Shopping Cart
+- Search & Category Filter
+- Order Management
+- Responsive Design
+
+🌐 **Live Demo:** https://your-demo-link.vercel.app
+
+📂 **GitHub:** https://github.com/yourusername/project
+
+### 📸 Preview
+
+<img src="./assets/ecommerce-home.png" width="850"/>
+
+---
+
+### 🎬 Movie Explorer
+
+Responsive movie discovery application powered by TMDB API.
+
+**Tech Stack**
+
+- React.js
+- JavaScript
+- Tailwind CSS
+- TMDB API
+
+### Features
+
+- Movie Search
+- Trending Movies
+- Genre Filter
+- Movie Details
+- Lazy Loading
+- Responsive UI
+
+🌐 **Live Demo:** https://your-demo-link.vercel.app
+
+📂 **GitHub:** https://github.com/yourusername/project
+
+### 📸 Preview
+
+<img src="./assets/movie-home.png" width="850"/>
+
+---
+
+## 📌 Core Competencies
+
+- React.js Development
+- JavaScript (ES6+)
+- Component-Based Architecture
 - REST API Integration
 - Responsive Web Design
+- Cross-Browser Compatibility
+- State Management
+- Performance Optimization
 - Git & GitHub
+- Agile Development
+
+---
+
+## 📈 GitHub Activity
+
+I actively build real-world frontend applications, improve existing projects, and explore modern web technologies through hands-on development.
 
 ---
 
 ## 🤝 Let's Connect
 
-📧 Email: sirigireddysruthi0@gmail.com
+📧 **Email**
 
-💼 LinkedIn: https://www.linkedin.com/in/sruthi-raj-reddy/
+sirigireddysruthi0@gmail.com
 
-🌐 Portfolio: 
+💼 **LinkedIn**
 
-📍 Location: India
+https://www.linkedin.com/in/sruthi-raj-reddy/
+
+🌐 **Portfolio**
+
+Coming Soon
+
+📍 **Location**
+
+Andhra Pradesh, India
 
 ---
 
 <p align="center">
-⭐ Building clean, scalable, and user-friendly web applications.
+
+⭐ Thanks for visiting my profile!  
+Building modern, scalable and user-friendly web applications with React.js.
+
 </p>
