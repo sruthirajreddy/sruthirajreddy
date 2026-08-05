@@ -30,7 +30,7 @@ I enjoy transforming UI designs into responsive and interactive applications whi
 - 🧩 Reusable Component Development
 - 🚀 Performance Optimization
 - 🤝 Agile Development Experience
-- 🌱 Currently learning TypeScript and advanced React concepts
+- 🌱 Currently learning TypeScript
 
 ---
 
@@ -118,8 +118,6 @@ A production-style e-commerce platform with secure authentication and complete s
 
 🌐 **Live Demo:** https://your-demo-link.vercel.app
 
-📂 **GitHub:** https://github.com/yourusername/project
-
 ### 📸 Preview
 
 <img src="./assets/ecommerce-home.png" width="850"/>
@@ -128,7 +126,7 @@ A production-style e-commerce platform with secure authentication and complete s
 
 ### 🎬 Movie Explorer
 
-Responsive movie discovery application powered by TMDB API.
+Responsive movie discovery application powered by TMDB (The Movie Database) API.
 
 **Tech Stack**
 
@@ -148,32 +146,9 @@ Responsive movie discovery application powered by TMDB API.
 
 🌐 **Live Demo:** https://your-demo-link.vercel.app
 
-📂 **GitHub:** https://github.com/yourusername/project
-
 ### 📸 Preview
 
 <img src="./assets/movie-home.png" width="850"/>
-
----
-
-## 📌 Core Competencies
-
-- React.js Development
-- JavaScript (ES6+)
-- Component-Based Architecture
-- REST API Integration
-- Responsive Web Design
-- Cross-Browser Compatibility
-- State Management
-- Performance Optimization
-- Git & GitHub
-- Agile Development
-
----
-
-## 📈 GitHub Activity
-
-I actively build real-world frontend applications, improve existing projects, and explore modern web technologies through hands-on development.
 
 ---
 
@@ -193,13 +168,12 @@ Coming Soon
 
 📍 **Location**
 
-Andhra Pradesh, India
+India
 
 ---
 
 <p align="center">
 
-⭐ Thanks for visiting my profile!  
-Building modern, scalable and user-friendly web applications with React.js.
+⭐ Building modern, scalable and user-friendly web applications.
 
 </p>
